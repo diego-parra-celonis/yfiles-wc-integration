@@ -1,0 +1,7 @@
+#main-section{
+    display: flex;
+}
+
+#diagram-section{
+    flex-grow: 1;
+}

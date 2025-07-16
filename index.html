@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vanilla JS App with Angular Web Component</title>
+    <link rel="stylesheet" href="src/css/styles.css">
+    <!-- NOTE: Please make sure for now, you always copy the last version of this bundle -->
+    <script type="module" src="lib/cpm-yfiles-wc/celonis-process-diagram.js"></script>
+</head>
+<body>
+    <div id="main-container">
+        <div id="top-section">
+            <img src="src/img/top.png" alt="top">
+        </div>    
+        <div id="main-section">
+            <div id="tree-section">
+                <img src="src/img/tree.png" alt="tree">
+            </div>    
+            <div id="diagram-section">
+                <celonis-process-diagram></celonis-process-diagram>
+            </div>    
+            <div id="detail-section">
+                <img src="src/img/details.png"  alt="details">
+            </div>            
+        </div>    
+    </div>
+    <script src="src/js/main.js"></script>
+</body>
+</html>
