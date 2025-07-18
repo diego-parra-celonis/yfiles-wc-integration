@@ -1,22 +1,23 @@
 // Ensure the DOM is fully loaded before trying to access the web component
 document.addEventListener('DOMContentLoaded', () => {
-    const processDiagram = document.querySelector('celonis-process-diagram');
+    const processDiagram = document.querySelector('#celonis-process-diagram');
+    const processDiagramTitle = document.querySelector('#celonis-process-diagram-title');
+    const processDiagramCounter = document.querySelector('#celonis-process-diagram-counter');
 
-    /*if (processDiagram) {
-        // Example: Setting a property (input) on the web component
-        // If your Angular web component has an @Input() called 'data',
-        // you can set it as a property on the DOM element:
-        processDiagram.data = {  your_data_object: 'here'  };
+    processDiagramTitle.addEventListener('input', (event) => {
+        // Update the title of the web component when the input changes
+        if (processDiagram) {
+            processDiagram.title = event.target.value;
+        }
+    });
+    
+    if (processDiagram) {
+        processDiagram.title = processDiagramTitle.value || '';
 
-        // Example: Listening to an event (output) from the web component
-        // If your Angular web component has an @Output() called 'nodeSelected',
-        // you can listen for it:
-        processDiagram.addEventListener('nodeSelected', (event) => {
-            console.log('Node selected:', event.detail);
-            // event.detail will contain the data emitted by your Angular component
+        // Reads the event emmited by the web component and performs a visual update
+        processDiagram.addEventListener('onCounterUpdate', (event) => {
+            console.log('Event detail:', event.detail);
+            processDiagramCounter.textContent = event.detail.counter;
         });
-
-        // You can also call methods on the web component if it exposes them
-        // processDiagram.refreshDiagram();
-    }*/
+    }
 });

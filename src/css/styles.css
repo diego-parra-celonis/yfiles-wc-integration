@@ -5,3 +5,12 @@
 #diagram-section{
     flex-grow: 1;
 }
+#diagram-section > *{
+    display: block;
+    margin: 8px;
+    padding: 8px;
+}
+
+#celonis-process-diagram{
+    border: 1px solid red;    
+}
