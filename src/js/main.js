@@ -1,9 +1,12 @@
+import { mockedCelonisProcessDiagram } from './bpmn.diagram.mock.js';
+
 // Ensure the DOM is fully loaded before trying to access the web component
 document.addEventListener('DOMContentLoaded', () => {
     const processDiagram = document.querySelector('#celonis-process-diagram');
     const processDiagramTitle = document.querySelector('#celonis-process-diagram-title');
     const processDiagramCounter = document.querySelector('#celonis-process-diagram-counter');
     const processDiagramResetCounter = document.querySelector('#celonis-process-diagram-reset-counter');
+    const processDiagramLoadFile = document.querySelector('#celonis-process-diagram-load-file');
 
     processDiagramTitle.addEventListener('input', (event) => {
         // Update the title of the web component when the input changes
@@ -13,6 +16,11 @@ document.addEventListener('DOMContentLoaded', () => {
     processDiagramResetCounter.addEventListener('click', () => {
         // Invokes a method within the web component 
         processDiagram.resetCounter();
+    });
+
+    processDiagramLoadFile.addEventListener('click', () => {
+        // Invokes a method within the web component 
+        processDiagram.loadDiagramData(mockedCelonisProcessDiagram);
     });
     
     if (processDiagram) {
