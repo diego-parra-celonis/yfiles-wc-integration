@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="29" viewBox="0 0 30 29">
+    <defs>
+        <linearGradient id="a" x1="92.982%" x2="-72.247%" y1="5.09%" y2="55.326%">
+            <stop offset="0%" stop-color="#8C3400" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#8C3400"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M-1-2h32v32H-1z"/>
+        <g fill="#FFBF1E" transform="translate(0 6)">
+            <circle cx="5.5" cy="3.5" r="3.5"/>
+            <path d="M9.96 19.04C9.96 16.427 10.785 8 5 8S.04 16.427.04 19.04c0 2.613 9.92 2.613 9.92 0z"/>
+        </g>
+        <g fill="#FFBF1E" transform="translate(20 6)">
+            <circle cx="4.5" cy="3.5" r="3.5"/>
+            <path d="M9.96 19.04C9.96 16.427 10.785 8 5 8S.04 16.427.04 19.04c0 2.613 9.92 2.613 9.92 0z"/>
+        </g>
+        <path fill="url(#a)" d="M12.8 16h6.133L12.8 26.684z" opacity=".416" transform="matrix(1 0 0 -1 8 42.684)"/>
+        <g fill="#FF711E" transform="translate(8)">
+            <circle cx="7" cy="5" r="5"/>
+            <path d="M13.828 26c0-3.314 1.129-14-6.772-14S.284 22.686.284 26s13.544 3.314 13.544 0z"/>
+        </g>
+        <path fill="url(#a)" d="M.452 17.49c.343-.348.793-.672 1.351-.972.45-.241 2.633-.649 3.81-.477.49.072.896.518 1.22 1.34L.7 28.063.452 17.49z" opacity=".416" transform="matrix(1 0 0 -1 8 44.064)"/>
+    </g>
+</svg>

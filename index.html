@@ -6,7 +6,8 @@
     <title>Vanilla JS App with Angular Web Component</title>
     <link rel="stylesheet" href="src/css/styles.css">
     <!-- NOTE: Please make sure for now, you always copy the last version of this bundle -->
-    <script type="module" src="lib/cpm-yfiles-wc/celonis-process-diagram.js"></script>
+    <script type="module" src="lib/cpm-yfiles-wc/main.js"></script>
+    <link rel="stylesheet" href="lib/cpm-yfiles-wc/styles.css">
 </head>
 <body>
     <div id="main-container">
@@ -19,17 +20,11 @@
             </div>    
             <div id="diagram-section">
                 <celonis-process-diagram id="celonis-process-diagram"></celonis-process-diagram>
-                <label for="celonis-process-diagram-title">Title: 
-                    <input type="text" id="celonis-process-diagram-title" value="works in my JavaScript app!" />
-                </label>
-                <label for="celonis-process-diagram-title">Counter status: 
-                    <span id="celonis-process-diagram-counter">0</span> 
-                </label>
-                <label for="celonis-process-diagram-reset-counter">Reser counter: 
-                    <button id="celonis-process-diagram-reset-counter">Execute</button> 
-                </label>
                 <label for="celonis-process-diagram-load-file">Load diagram mock: 
                     <button id="celonis-process-diagram-load-file">Execute</button> 
+                </label>
+                <label for="celonis-process-diagram-event-log">Event log: 
+                    <textarea id="celonis-process-diagram-event-log" readonly rows="10"></textarea> 
                 </label>
             </div>    
             <div id="detail-section">

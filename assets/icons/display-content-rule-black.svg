@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Display Content Rule Icon BW</title>
+    <g id="Display-Content-Rule-Icon-BW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="rule" transform="translate(6.000000, 5.000000)" fill="#000000" fill-rule="nonzero">
+            <rect id="Rectangle" x="3.00000654" y="7" width="6" height="1"></rect>
+            <rect id="Rectangle" x="3.00000654" y="4" width="6" height="1"></rect>
+            <path d="M6.00000327,14 L2.91210654,12.35355 C1.11806604,11.3992165 -0.00220730339,9.53207502 3.26547401e-06,7.5 L3.26547401e-06,1 C0.000612777668,0.447966557 0.447973097,0.000606237045 1.00000327,0 L11.0000033,0 C11.55204,0.000606237045 11.9994003,0.447966557 12.0000033,1 L12.0000033,7.5 C12.0021834,9.53203913 10.8819153,11.3991333 9.08790654,12.35345 L6.00000327,14 Z M1.000004,1 L1.000004,7.5 C0.998243044,9.16265658 1.91489493,10.6903392 3.38280654,11.47115 L6.000004,12.86665 L8.61720654,11.47115 C10.0851182,10.6903392 11.00177,9.16265658 11.000004,7.5 L11.000004,1 L1.000004,1 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Anomalies Icon BW</title>
+    <g id="Anomalies-Icon-BW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/24px/Data/data-cluster" transform="translate(4.000000, 4.000000)" fill="#000000">
+            <path d="M6.855,6.145 L3.705,3 L6.5,3 L6.5,2 L2,2 L2,6.5 L3,6.5 L3,3.705 L6.145,6.855 L6.855,6.145 L6.855,6.145 Z M14,15 L6,15 C5.44771525,15 5,14.5522847 5,14 L5,9 L6,9 L6,14 L14,14 L14,6 L9,6 L9,5 L14,5 C14.5522847,5 15,5.44771525 15,6 L15,14 C15,14.5522847 14.5522847,15 14,15 Z M11,7.5 L8.5,7.5 L8.5,8.5 L11,8.5 L11,9.5 L9,9.5 C8.44771525,9.5 8,9.94771525 8,10.5 L8,11.5 C8,12.0522847 8.44771525,12.5 9,12.5 L12,12.5 L12,8.5 C12,7.94771525 11.5522847,7.5 11,7.5 Z M11,11.5 L9,11.5 L9,10.5 L11,10.5 L11,11.5 Z" id="Fill"></path>
+        </g>
+    </g>
+</svg>

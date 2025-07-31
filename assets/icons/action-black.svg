@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Actions Icon BW</title>
+    <g id="Actions-Icon-BW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/24px/Data/data-cluster" transform="translate(4.000000, 4.000000)" fill="#000000">
+            <path d="M15,8 L11,12 L10.293,11.293 L13.586,8 L10.293,4.707 L11,4 L15,8 Z M8,11.0000003 C7.86736973,11.000137 7.74015265,10.9474148 7.6465,10.8535 L5.1465,8.3535 C4.95130903,8.15825007 4.95130903,7.84174993 5.1465,7.6465 L7.6465,5.1465 C7.84174993,4.95130903 8.15825007,4.95130903 8.3535,5.1465 L10.8535,7.6465 C11.048691,7.84174993 11.048691,8.15825007 10.8535,8.3535 L8.3535,10.8535 C8.25984735,10.9474148 8.13263027,11.000137 8,11.0000003 Z M6.207,8 L8,9.793 L9.793,8 L8,6.207 L6.207,8 Z M1,8 L5,4 L5.707,4.707 L2.414,8 L5.707,11.293 L5,12 L1,8 Z" id="Fill"></path>
+        </g>
+    </g>
+</svg>

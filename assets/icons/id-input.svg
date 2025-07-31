@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ID Icon</title>
+    <g id="ID-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="16" height="16" rx="2"></rect>
+        <g id="iD" transform="translate(3.000000, 2.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <rect id="Rectangle" x="0" y="0" width="1.71428571" height="1.71428571"></rect>
+            <path d="M6.85714286,12 L3.42857143,12 L3.42857143,0 L6.85714286,0 C8.75069057,0 10.2857143,1.53502371 10.2857143,3.42857143 L10.2857143,8.57142857 C10.2857143,10.4649763 8.75069057,12 6.85714286,12 Z M5.14285714,10.2857143 L6.85714286,10.2857143 C7.80391671,10.2857143 8.57142857,9.51820243 8.57142857,8.57142857 L8.57142857,3.42857143 C8.57142857,2.48179757 7.80391671,1.71428571 6.85714286,1.71428571 L5.14285714,1.71428571 L5.14285714,10.2857143 Z" id="Shape"></path>
+            <rect id="Rectangle" x="0" y="3.42857143" width="1.71428571" height="8.57142857"></rect>
+        </g>
+    </g>
+</svg>

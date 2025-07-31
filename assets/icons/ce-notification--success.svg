@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>64650CA7-527A-4081-ABAD-087A95F13AA8@1x</title>
+    <defs>
+        <path d="M6.28659336,10.0196095 L3.67655971,7.46882971 C3.26986302,7.07136599 2.63726495,7.09986058 2.26361237,7.53247415 C1.88995979,7.96508772 1.91674733,8.63799832 2.32344402,9.03546204 L6.38007703,13 L13.7241398,4.79733101 C14.1050258,4.37191498 14.0895874,3.69860159 13.689657,3.29344346 C13.2897267,2.88828533 12.65675,2.90470761 12.2758639,3.33012364 L6.28659336,10.0196095 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/16px/check">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon-check" fill="#7dbb00" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

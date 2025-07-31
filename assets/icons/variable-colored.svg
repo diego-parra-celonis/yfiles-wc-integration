@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Variable Icon 2</title>
+    <g id="KM-Visual-Editor-3.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Joan-Export-Items" transform="translate(-73.000000, -273.000000)">
+            <g id="Group" transform="translate(73.000000, 273.000000)">
+                <rect id="Rectangle" fill="#264AFF" x="0" y="0" width="24" height="24" rx="12"></rect>
+                <g transform="translate(4.000000, 4.000000)" fill="#FFFFFF" id="Icons/24px/Data/data-cluster">
+                    <path d="M1,4.5 L5.5,4.5 L5.5,1 L1,1 L1,4.5 Z M2,2 L4.5,2 L4.5,3.5 L2,3.5 L2,2 Z M1,9.5 L5.5,9.5 L5.5,6 L1,6 L1,9.5 Z M2,7 L4.5,7 L4.5,8.5 L2,8.5 L2,7 Z M1,14.5 L5.5,14.5 L5.5,11 L1,11 L1,14.5 Z M2,12 L4.5,12 L4.5,13.5 L2,13.5 L2,12 Z M13.5,4.5 L9,4.5 L10.705,2.705 L10,2 L7,5 L10,8 L10.705,7.295 L9,5.5 L13.5,5.5 C13.7761424,5.5 14,5.72385763 14,6 L14,12 C14,12.2761424 13.7761424,12.5 13.5,12.5 L7.5,12.5 L7.5,13.5 L13.5,13.5 C14.3284271,13.5 15,12.8284271 15,12 L15,6 C15,5.17157288 14.3284271,4.5 13.5,4.5 Z" id="Fill"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

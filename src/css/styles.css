@@ -16,3 +16,7 @@
     border: 1px solid red;    
     flex-grow: 1;
 }
+
+#celonis-process-diagram-event-log{
+    width: 100%;
+}

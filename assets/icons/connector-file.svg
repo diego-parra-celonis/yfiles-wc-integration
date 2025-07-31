@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="51" viewBox="0 0 40 51" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <rect id="a" width="2" height="10" x="10" y="6"/>
+    <rect id="b" width="2" height="10" x="10" y="6"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="rotate(180 19.5 25)">
+    <path stroke="#6485FD" stroke-width="2" d="M21.1317602,6 C24.4358135,6 29.3918934,6 36,6 C37.1045685,6 38,6.8954306 38,8 L38,36.2220345 C38,36.722416 37.8124313,37.2046204 37.4743118,37.5734826 L27.5945663,48.3514443 C27.2157459,48.7647057 26.6808681,49 26.1202545,49 L26.1202545,49 L6,49 C4.8954306,49 4,48.1045685 4,47 C4,34.9917611 4,25.9855819 4,19.9814625" stroke-linecap="round" stroke-linejoin="round"/>
+    <use fill="#6485FD" xlink:href="#a"/>
+    <rect width="1" height="9" x="10.5" y="6.5" stroke="#6485FD"/>
+    <g transform="rotate(-90 11 11)">
+      <use fill="#6485FD" xlink:href="#b"/>
+      <rect width="1" height="9" x="10.5" y="6.5" stroke="#6485FD"/>
+    </g>
+    <circle cx="11" cy="11" r="11" stroke="#6485FD" stroke-width="2" stroke-linecap="round"/>
+    <path stroke="#6485FD" stroke-width="2" d="M37,37 L29,37 C27.8954296,37 27,37.8954315 27,39 L27,49" stroke-linecap="round" stroke-linejoin="round"/>
+    <path stroke="#6485FD" stroke-width="2" d="M33 17L21 17M33 27L9 27M19 36L9 36" stroke-linejoin="round"/>
+  </g>
+</svg>

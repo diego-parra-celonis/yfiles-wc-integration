@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="status-icons-24x24/icon-status-inactive" transform="translate(-3.000000, -3.000000)">
+            <g id="Group-2" transform="translate(3.000000, 3.000000)">
+                <g id="Group-3">
+                    <g id="icon-unlink" fill="#ABBAC8">
+                        <g id="icon__background">
+                            <circle cx="9" cy="9" r="9"></circle>
+                        </g>
+                    </g>
+                    <g id="Group" transform="translate(6.000000, 5.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <rect id="Rectangle" x="4" y="0" width="2" height="8"></rect>
+                        <rect id="Rectangle-Copy" x="0" y="0" width="2" height="8"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

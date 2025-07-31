@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>D78AD70B-56C4-4255-9AB9-6E1C22D1E459</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="889.132924 78.25 884.724534 80.5676275 885.566462 75.6588137 882 72.1823725 886.928729 71.4661863 889.132924 67 891.337119 71.4661863 896.265848 72.1823725 892.699386 75.6588137 893.541313 80.5676275"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14.2658477" height="13.5676275" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="STYLEGUIDE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Admin-icons" transform="translate(-882.000000, -67.000000)" stroke="#F6A623" stroke-width="2">
+            <use id="Star" mask="url(#mask-2)" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="24px" viewBox="0 0 28 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Augmented Attribute</title>
+    <g id="Augmented-Attribute" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Attribute-Icon">
+            <rect id="Rectangle" fill="#FF3E98" x="0" y="0" width="24" height="24" rx="12"></rect>
+            <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.5" x="16.25" y="6.25" width="11.5" height="11.5" rx="5.75"></rect>
+        </g>
+        <g id="Group" transform="translate(4.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M16,1.23076923 C16,0.551034154 15.4489658,0 14.7692308,0 L1.23076923,0 C0.551034154,0 8.8817842e-15,0.551034154 8.8817842e-15,1.23076923 L8.8817842e-15,14.7692308 C8.8817842e-15,15.4489658 0.551034154,16 1.23076923,16 L14.7692308,16 C15.4489658,16 16,15.4489658 16,14.7692308 L16,1.23076923 Z M14.7692308,1.23076923 L14.7692308,3.69230769 L1.23076923,3.69230769 L1.23076923,1.23076923 L14.7692308,1.23076923 Z M14.7692308,14.7692308 L1.23076923,14.7692308 L1.23076923,12.3076923 L14.7692308,12.3076923 L14.7692308,14.7692308 Z M14.7692308,11.0769231 L1.23076923,11.0769231 L1.23076923,8.61538462 L14.7692308,8.61538462 L14.7692308,11.0769231 Z M14.7692308,7.38461538 L1.23076923,7.38461538 L1.23076923,4.92307692 L14.7692308,4.92307692 L14.7692308,7.38461538 Z" id="Shape" transform="translate(8.000000, 8.000000) rotate(90.000000) translate(-8.000000, -8.000000) "></path>
+        </g>
+        <rect id="Rectangle" fill="#000000" x="16" y="6" width="12" height="12" rx="2"></rect>
+        <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.5" x="18.05" y="8.05" width="7.9" height="7.9" rx="3.95"></rect>
+        <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.5" x="19.85" y="9.85" width="4.3" height="4.3" rx="2.15"></rect>
+    </g>
+</svg>

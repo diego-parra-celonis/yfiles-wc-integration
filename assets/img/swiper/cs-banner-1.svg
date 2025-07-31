@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="illustration_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 800.5 234" style="enable-background:new 0 0 800.5 234;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.3;fill:url(#Polygon-2_2_);enable-background:new    ;}
+	.st1{opacity:0.8;fill:url(#Polygon-2_3_);enable-background:new    ;}
+</style>
+<g id="Mask">
+</g>
+<linearGradient id="Polygon-2_2_" gradientUnits="userSpaceOnUse" x1="83.4016" y1="-343.3503" x2="83.4016" y2="-342.3503" gradientTransform="matrix(552.7806 127.6195 -133.8834 579.9127 -91516.2734 188333.2344)">
+	<stop  offset="0" style="stop-color:#A8A7D1"/>
+	<stop  offset="1" style="stop-color:#6F6EA4"/>
+</linearGradient>
+<polygon id="Polygon-2" class="st0" points="533.2,-141.4 799.6,67.1 731.8,360.7 443.7,448.7 177.4,240.2 245.1,-53.3 "/>
+<linearGradient id="Polygon-2_3_" gradientUnits="userSpaceOnUse" x1="83.4524" y1="-342.518" x2="83.3923" y2="-343.2206" gradientTransform="matrix(510.41 248.9436 -241.3036 494.7458 -124996.2578 148962.7812)">
+	<stop  offset="0" style="stop-color:#A2A3CA"/>
+	<stop  offset="1" style="stop-color:#6F6EA4"/>
+</linearGradient>
+<polygon id="Polygon-2_1_" class="st1" points="568.5,-113.5 710.9,97.7 599.2,326.8 -10,287.5 -67.5,126 -10,-68 "/>
+</svg>

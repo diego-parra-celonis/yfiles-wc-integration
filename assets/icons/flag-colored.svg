@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Flags Icon</title>
+    <g id="Flags-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#D9640D" cx="12" cy="12" r="12"></circle>
+        <g id="Icons/24px/Actions/add-new-filters" transform="translate(5.000000, 5.000000)" fill="#FFFFFF">
+            <path d="M2.625,13.125 L1.75,13.125 L1.75,0.875 L12.25,0.875 L9.7125,4.8125 L12.25,8.75 L2.625,8.75 L2.625,13.125 Z M2.625,7.875 L10.644375,7.875 L8.6625,4.8125 L10.644375,1.75 L2.625,1.75 L2.625,7.875 Z" id="Fill"></path>
+        </g>
+    </g>
+</svg>

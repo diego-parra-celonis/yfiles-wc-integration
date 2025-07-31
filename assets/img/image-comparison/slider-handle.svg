@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="48px" viewBox="0 0 23 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5">
+            <g id="Group-4">
+                <rect id="Rectangle" fill="#4F586D" x="0" y="0" width="23" height="48" rx="11.5"></rect>
+                <g id="Icons/general-icons-16x16/icon-arrow-left" transform="translate(2.000000, 20.000000)" fill="#F6F9FC">
+                    <path d="M2.5,4.08578644 L0.207106781,1.79289322 C-0.183417511,1.40236893 -0.816582489,1.40236893 -1.20710678,1.79289322 C-1.59763107,2.18341751 -1.59763107,2.81658249 -1.20710678,3.20710678 L1.79289322,6.20710678 C2.18341751,6.59763107 2.81658249,6.59763107 3.20710678,6.20710678 L6.20710678,3.20710678 C6.59763107,2.81658249 6.59763107,2.18341751 6.20710678,1.79289322 C5.81658249,1.40236893 5.18341751,1.40236893 4.79289322,1.79289322 L2.5,4.08578644 Z" id="Path-2" transform="translate(2.500000, 4.000000) rotate(-270.000000) translate(-2.500000, -4.000000) "></path>
+                </g>
+                <g id="Icons/general-icons-16x16/icon-arrow-left" transform="translate(15.000000, 20.000000)" fill="#F6F9FC">
+                    <path d="M3,4.08578644 L0.707106781,1.79289322 C0.316582489,1.40236893 -0.316582489,1.40236893 -0.707106781,1.79289322 C-1.09763107,2.18341751 -1.09763107,2.81658249 -0.707106781,3.20710678 L2.29289322,6.20710678 C2.68341751,6.59763107 3.31658249,6.59763107 3.70710678,6.20710678 L6.70710678,3.20710678 C7.09763107,2.81658249 7.09763107,2.18341751 6.70710678,1.79289322 C6.31658249,1.40236893 5.68341751,1.40236893 5.29289322,1.79289322 L3,4.08578644 Z" id="Path-2" transform="translate(3.000000, 4.000000) rotate(-90.000000) translate(-3.000000, -4.000000) "></path>
+                </g>
+                <line x1="11.5" y1="8" x2="11.5" y2="40" id="Path-2" stroke="#E3E9EF" stroke-width="0.5" opacity="0.426502046" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>
